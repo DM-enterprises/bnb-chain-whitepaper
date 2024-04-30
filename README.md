@@ -1,4 +1,5 @@
-# BNB Smart Chain White Paper
+#.x
+#BNB Smart Chain White Paper
 
 ## Revision
 
